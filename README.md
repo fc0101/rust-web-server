@@ -1,6 +1,6 @@
 # Rust Web Server
 
-This is showing how to work the Rust Web Server.
+This is showing how to works the Rust Web Server.
 
 The main purpose of using [Rust](https://www.rust-lang.org/learn) is enhanced safety, speed, and concurrency, or the ability to run multiple computations parallelly. In simple words, Rust is used for three essential purposes in programming: performance, safety, and memory management.
 
