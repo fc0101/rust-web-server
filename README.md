@@ -1,6 +1,6 @@
 ## Rust Web Server
 
-`The main purpose of using [Rust](https://www.google.com) is enhanced safety, speed, and concurrency, or the ability to run multiple computations parallelly. In simple words, Rust is used for three essential purposes in programming: performance, safety, and memory management.`
+The main purpose of using [Rust](https://www.google.com) is enhanced safety, speed, and concurrency, or the ability to run multiple computations parallelly. In simple words, Rust is used for three essential purposes in programming: performance, safety, and memory management.
 
 ```bash
     curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
