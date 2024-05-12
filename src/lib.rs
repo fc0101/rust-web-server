@@ -43,9 +43,7 @@ impl ThreadPool {
 
         self.sender.as_ref().unwrap().send(job).unwrap();
     }
-
 }
-
 
 impl Worker {
     fn new(id: usize, receiver: Arc<Mutex<mpsc::Receiver<Job>>>) -> Worker {
