@@ -1,6 +1,6 @@
 ## Rust Web Server
 
-The main purpose of using [Rust](https://www.google.com) is enhanced safety, speed, and concurrency, or the ability to run multiple computations parallelly. In simple words, Rust is used for three essential purposes in programming: performance, safety, and memory management.
+The main purpose of using [Rust](https://www.rust-lang.org/learn) is enhanced safety, speed, and concurrency, or the ability to run multiple computations parallelly. In simple words, Rust is used for three essential purposes in programming: performance, safety, and memory management.
 
 ```bash
     # install Rust
@@ -13,7 +13,7 @@ The main purpose of using [Rust](https://www.google.com) is enhanced safety, spe
     cargo run
 ```
 
-`Port : [127.0.0.1:7878](https://127.0.0.1:7878)`
+Port : [https://127.0.0.1:7878](https://127.0.0.1:7878)
 
 ```rust
     let listener = TcpListener::bind("127.0.0.1:7878").unwrap();
